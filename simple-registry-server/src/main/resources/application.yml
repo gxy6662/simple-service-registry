@@ -2,7 +2,7 @@ server:
   port: 9000
 spring:
   application:
-    name: simple-service-registry
+    name: simple-registry-server
   cache:
     type: simple
   devtools:
